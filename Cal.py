@@ -43,3 +43,4 @@ for button in buttons:
 
 root.mainloop()
 root.quit()
+print('Calculator closed.')
