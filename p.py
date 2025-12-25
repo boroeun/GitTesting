@@ -3,6 +3,7 @@ print("Hello from p.py!")
 print("End of p.py")
 print("End of p")
 print("Hi this is the newF")
+<<<<<<< HEAD
 
 def draw_tree(height):
     # Draw the leaves of the tree
@@ -17,3 +18,7 @@ def draw_tree(height):
 # Set how tall you want your tree to be
 draw_tree(10)
 draw_tree(3*2)
+=======
+print("this is the second change in p.py") 
+
+>>>>>>> f1534cb (the second commit in py)
