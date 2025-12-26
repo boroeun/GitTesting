@@ -1,3 +1,9 @@
+print("This is file p.py")
+print("Hello from p.py!")
+print("End of p.py")
+print("End of p")
+print("Hi this is the newF")
+
 def draw_tree(height):
     # Draw the leaves of the tree
     for i in range(height):
